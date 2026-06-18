@@ -45,6 +45,6 @@ Hello! I'm Likhit Mangesh Ranchod, a third-year Diploma student in Computer Engi
 
 ## Find Me
 
-* GitHub: https://github.com/Rancho08
+* GitHub: https://github.com/Rancho-08
 * LinkedIn: https://linkedin.com/in/your-handle
 * Email: likhitranchhod9082@gmail.com
